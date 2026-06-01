@@ -65,6 +65,9 @@ body {
 .field > label { display: block; font-size: 13px; color: var(--muted); margin-bottom: 8px; text-transform: uppercase; letter-spacing: .5px; }
 .choices { display: flex; gap: 8px; flex-wrap: wrap; }
 #player-choices { display: grid; grid-template-columns: repeat(4, 1fr); } /* tidy 4×2 for up to 8 */
+/* pool chips size to their text and wrap (centered) so long labels like "Зарубежная" fit */
+#pool-choices { justify-content: center; }
+#pool-choices .chip { flex: 0 1 auto; white-space: nowrap; }
 .chip {
   flex: 1; min-width: 64px;
   background: var(--panel-2); color: var(--text);
