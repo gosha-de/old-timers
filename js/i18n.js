@@ -37,6 +37,8 @@ const DICT = {
     winTie: ({ n }) => `It's a tie at ${n} card${n === 1 ? '' : 's'}!`,
     win: ({ name, n }) => `${name} wins with ${n} card${n === 1 ? '' : 's'}!`,
     playAgain: 'Play again',
+    resetPlayed: 'Reset played songs',
+    resetDone: 'Reset ✓',
   },
   ru: {
     tagline: 'Угадывайте, в каком году вышел трек',
@@ -65,6 +67,8 @@ const DICT = {
     winTie: ({ n }) => `Ничья! У всех по ${n} ${ruPlural(n, ['карточке', 'карточки', 'карточек'])}.`,
     win: ({ name, n }) => `Победил ${name}! ${n} ${ruPlural(n, ['карточка', 'карточки', 'карточек'])}.`,
     playAgain: 'Ещё раз',
+    resetPlayed: 'Сбросить прослушанные',
+    resetDone: 'Готово ✓',
   },
 };
 

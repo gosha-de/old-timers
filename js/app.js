@@ -246,12 +246,29 @@ function endGame() {
 
 // ---- buttons ------------------------------------------------------------
 $('#start').addEventListener('click', startGame);
-const goHome = () => { audio.pause(); setRandomBackground(); show('setup'); };
+// show the reset link only when some songs have actually been heard
+const updateResetButton = () => { $('#reset-played').hidden = seen.size === 0; };
+
+const goHome = () => { audio.pause(); setRandomBackground(); updateResetButton(); show('setup'); };
 $('#again').addEventListener('click', goHome);
 $('#quit').addEventListener('click', goHome);
 $('#home').addEventListener('click', goHome);
 
+// forget the played-song history so previously-heard tracks can come up again
+$('#reset-played').addEventListener('click', () => {
+  seen.clear();
+  const btn = $('#reset-played');
+  btn.textContent = t('resetDone');
+  btn.classList.add('done');
+  setTimeout(() => {
+    btn.textContent = t('resetPlayed');
+    btn.classList.remove('done');
+    btn.hidden = true; // nothing left to reset
+  }, 1500);
+});
+
 // ---- go -----------------------------------------------------------------
 applyI18n();
 renderLangButtons();
+updateResetButton();
 loadData().catch((e) => { $('#poolinfo').textContent = 'Failed to load songs.json — run `npm run bake`.'; console.error(e); });
