@@ -174,6 +174,7 @@ function renderBoards() {
 function cardEl(song, flash = false) {
   const d = document.createElement('div');
   d.className = 'card' + (flash ? ' flash-good' : '');
+  if (song.artwork) d.style.setProperty('--cover', `url("${artAt(song.artwork, 200)}")`);
   d.innerHTML =
     `<div class="yr">${song.year}</div>` +
     `<div class="ti">${escapeHtml(song.title)}</div>` +

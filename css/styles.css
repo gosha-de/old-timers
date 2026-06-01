@@ -157,15 +157,25 @@ input[type=range] { width: 100%; accent-color: var(--accent); }
 }
 .slot:hover { color: var(--accent); background: rgba(255,203,71,.07); }
 .card {
+  position: relative; overflow: hidden;
   flex: 0 1 120px; min-width: 92px; height: 130px;
-  background: var(--panel-2); border: 1px solid var(--line); border-radius: 12px;
+  background: var(--panel-2); border-radius: 12px;
   display: flex; flex-direction: column; align-items: center; justify-content: center;
   padding: 10px; text-align: center; gap: 6px;
   box-shadow: 0 6px 18px rgba(0,0,0,.3);
 }
+/* blurred + darkened album cover behind the text (per-card --cover set in JS) */
+.card::before {
+  content: ""; position: absolute; inset: 0; z-index: 0;
+  background-image: var(--cover, none);
+  background-size: cover; background-position: center;
+  filter: blur(14px) brightness(.28);
+  transform: scale(1.4); /* hide the soft transparent edges the blur creates */
+}
+.card > div { position: relative; z-index: 1; text-shadow: 0 1px 3px rgba(0,0,0,.65); }
 .card .yr { font-size: 30px; font-weight: 800; color: var(--accent); letter-spacing: -1px; }
-.card .ti { font-size: 11px; line-height: 1.25; color: var(--text); }
-.card .ar { font-size: 10px; color: var(--muted); }
+.card .ti { font-size: 11px; line-height: 1.25; color: var(--text); font-weight: 700; }
+.card .ar { font-size: 11px; line-height: 1.25; color: #cfd8e3; font-weight: 400; }
 .card.flash-good { animation: pop .5s; border-color: var(--accent-2); }
 @keyframes pop { 0%{transform:scale(.6);opacity:0} 60%{transform:scale(1.08)} 100%{transform:scale(1)} }
 
