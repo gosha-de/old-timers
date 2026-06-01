@@ -1,0 +1,56 @@
+{
+  "_comment": "Recognizable Russian/Soviet artists. A STRING lets the bake auto-pick popular tracks (years from iTunes). An OBJECT { artist, tracks:[{title,year}] } supplies your own original years while iTunes provides only the audio — use it when iTunes has only mis-dated remasters (e.g. Высоцкий). Re-run `npm run bake` after edits.",
+  "bands": [
+    "Кино",
+    "Аквариум",
+    "Машина времени",
+    "ДДТ",
+    "Наутилус Помпилиус",
+    "Алиса",
+    "Ария",
+    "Земфира",
+    "Би-2",
+    "Сплин",
+    "Мумий Тролль",
+    "Ленинград",
+    "Король и Шут",
+    "Чайф",
+    "Звери",
+    "Агата Кристи",
+    "Пикник",
+    "Браво",
+
+    "Муслим Магомаев",
+    "Песняры",
+    "Самоцветы",
+    "Эдита Пьеха",
+    "Алла Пугачёва",
+    "Земляне",
+    {
+      "artist": "Владимир Высоцкий",
+      "tracks": [
+        { "title": "Песня о друге", "year": 1966 },
+        { "title": "Парус", "year": 1967 },
+        { "title": "Охота на волков", "year": 1968 },
+        { "title": "Банька по-белому", "year": 1968 },
+        { "title": "Я не люблю", "year": 1969 },
+        { "title": "Песня о земле", "year": 1969 },
+        { "title": "Кони привередливые", "year": 1972 },
+        { "title": "Чужая колея", "year": 1973 }
+      ]
+    },
+
+    "Ласковый май",
+    "Иванушки International",
+    "Руки Вверх",
+    "Каста",
+
+    "Баста",
+    "Oxxxymiron",
+    "Скриптонит",
+    "Макс Корж",
+    "Miyagi & Andy Panda",
+    "Zivert",
+    "Монеточка"
+  ]
+}

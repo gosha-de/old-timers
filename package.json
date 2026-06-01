@@ -1,0 +1,12 @@
+{
+  "name": "old-timers",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Hitster-style music timeline guessing game (web, single-device MVP)",
+  "scripts": {
+    "bake": "node scripts/bake.mjs",
+    "serve": "node scripts/serve.mjs",
+    "test": "node scripts/test-engine.mjs"
+  }
+}
