@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-01T19:56:02.427Z",
+  "generatedAt": "2026-06-01T21:08:42.051Z",
   "counts": {
-    "RU": 288,
+    "RU": 274,
     "INT": 139
   },
   "pools": {
@@ -1159,28 +1159,12 @@
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ea/e9/ed/eae9edfe-4413-4a08-ea3e-d03d18ba9518/cover.jpg/100x100bb.jpg"
       },
       {
-        "title": "Синяя вечность",
+        "title": "Королева красоты",
         "artist": "Муслим Магомаев",
-        "year": 1969,
+        "year": 1964,
         "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a5/05/fa/a505fa14-b412-2059-b3ae-76c6a20abb8b/mzaf_17417351249537734685.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5f/50/6e/5f506eed-0027-8fd0-880c-2a14e5b50401/cover.jpg/100x100bb.jpg"
-      },
-      {
-        "title": "Серенада Трубадура (Из м/ф \"По следам Бременских музыкантов\")",
-        "artist": "Муслим Магомаев",
-        "year": 1969,
-        "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/34/5f/60/345f600a-1e24-0f7a-6a25-a6b3b86ab867/mzaf_8993758552726604286.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/5f/95/c15f9549-fff0-df59-09bc-bc83769ae4b7/cover.jpg/100x100bb.jpg"
-      },
-      {
-        "title": "Свадьба",
-        "artist": "Муслим Магомаев",
-        "year": 1995,
-        "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/e1/cf/80/e1cf8064-02b4-f8e5-80ec-ab8b80f36998/mzaf_10008247975227389625.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bc/51/06/bc510697-77bd-ab39-baea-b9037fd6e9e6/0.jpg/100x100bb.jpg"
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/cb/14/94/cb149449-6eeb-4590-db15-5c6043a15aeb/mzaf_10874081854007208745.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/5c/31/a1/5c31a1aa-2a09-8db1-4e3e-76ef2da769d9/cover.jpg/100x100bb.jpg"
       },
       {
         "title": "Лучший город Земли",
@@ -1191,68 +1175,84 @@
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/2a/68/f7/2a68f799-f35c-75c8-67c1-59b82d6dbe4b/cover.jpg/100x100bb.jpg"
       },
       {
-        "title": "День Победы",
+        "title": "Чёртово колесо",
         "artist": "Муслим Магомаев",
-        "year": 2014,
+        "year": 1966,
         "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8f/08/71/8f087159-9bf4-f1e3-c637-c8848778bdc8/mzaf_10053647408946168603.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e6/ae/9c/e6ae9cd2-ecfb-536f-db7c-646f1025cc1c/cover.jpg/100x100bb.jpg"
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/0d/61/e9/0d61e955-71c6-70aa-0736-cd95a9c086fd/mzaf_4373516628045675966.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/95/a1/8f/95a18f67-db48-50a3-6e5b-59fd74633d52/cover.jpg/100x100bb.jpg"
       },
       {
-        "title": "Надежда",
-        "artist": "Муслим Магомаев",
-        "year": 2010,
-        "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/64/e6/c5/64e6c50c-3fff-f102-960d-fb2fce85b751/mzaf_17348130855663837560.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a1/59/41/a1594195-3c0c-7be9-c1e0-a1126414e63e/cover.jpg/100x100bb.jpg"
-      },
-      {
-        "title": "Песенка Трубадура (Из м/ф \"По следам Бременских музыкантов\")",
+        "title": "Синяя вечность",
         "artist": "Муслим Магомаев",
         "year": 1969,
         "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2c/04/68/2c0468db-e7e2-e796-e248-f3bce0782073/mzaf_10604126000499774444.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4b/ed/15/4bed15f5-76fd-ebd2-9d82-1506df63e06a/cover.jpg/100x100bb.jpg"
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/14/8e/39/148e39e7-c46f-01d8-c62c-d8c65d3fc712/mzaf_6729739422453777409.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3e/5e/90/3e5e900a-78eb-abda-9ee6-1ec84e2e1cef/cover.jpg/100x100bb.jpg"
       },
       {
-        "title": "Королева красоты",
+        "title": "Серенада Трубадура",
         "artist": "Муслим Магомаев",
-        "year": 1964,
+        "year": 1969,
         "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f6/23/7f/f6237f3f-64d4-dc20-5604-b54c150fd9b4/mzaf_15334009415573980762.plus.aac.p.m4a",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d3/ef/88/d3ef885b-e5a5-f7b0-4384-89f708b7a706/mzaf_6115373287968987598.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/28/31/09/2831097d-59e2-d35a-29ee-047ee9a4539d/3615934323346.jpg/100x100bb.jpg"
+      },
+      {
+        "title": "Свадьба",
+        "artist": "Муслим Магомаев",
+        "year": 1971,
+        "country": "RU",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c6/b5/03/c6b503fe-8546-1cec-e16b-bf77d149638e/mzaf_12651709620326421291.plus.aac.p.m4a",
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0b/19/9f/0b199fb3-9bab-fd13-d104-ba19182c7872/cover.jpg/100x100bb.jpg"
       },
       {
-        "title": "Беловежская пуща",
-        "artist": "Песняры",
+        "title": "Ноктюрн",
+        "artist": "Муслим Магомаев",
         "year": 1976,
         "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f3/a1/f0/f3a1f022-a224-dfd2-ca70-93b1d57331a4/mzaf_12210082917065840383.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/81/87/e2/8187e26e-fcd5-79de-90d1-c2d581b9dbb7/3610156623281.jpg/100x100bb.jpg"
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f3/d0/80/f3d0802f-e699-1b34-7128-101ca8c3df58/mzaf_11754042888590127917.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0b/19/9f/0b199fb3-9bab-fd13-d104-ba19182c7872/cover.jpg/100x100bb.jpg"
       },
       {
         "title": "Косил Ясь конюшину",
         "artist": "Песняры",
+        "year": 1971,
+        "country": "RU",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/88/d8/d3/88d8d3fb-f83f-7068-99b2-88069ac5a9ac/mzaf_18354157105894381106.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d1/e2/88/d1e28871-568a-3c6a-72fe-c41c1a733383/cover.jpg/100x100bb.jpg"
+      },
+      {
+        "title": "Олеся",
+        "artist": "Песняры",
         "year": 1972,
         "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/6c/be/2b/6cbe2bd0-bafe-ac5f-fc82-eb8aaac3ba75/mzaf_4926346392100373611.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/44/c5/f4/44c5f4ae-feca-2972-e65f-3ce3d2345735/cover.jpg/100x100bb.jpg"
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/29/20/58/292058a6-249e-c09c-533f-1ad4c82ede45/mzaf_12947765742959099949.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d1/e2/88/d1e28871-568a-3c6a-72fe-c41c1a733383/cover.jpg/100x100bb.jpg"
+      },
+      {
+        "title": "Беловежская пуща",
+        "artist": "Песняры",
+        "year": 1975,
+        "country": "RU",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e0/21/9e/e0219eb7-d9f1-1fb0-dd66-2a34f29972bf/mzaf_6499574099807341172.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d1/e2/88/d1e28871-568a-3c6a-72fe-c41c1a733383/cover.jpg/100x100bb.jpg"
       },
       {
         "title": "Вологда",
         "artist": "Песняры",
         "year": 1976,
         "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7e/e7/52/7ee75249-9dc6-b108-c14b-9f18aa562494/mzaf_11554116544949994822.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ba/ac/7d/baac7dff-07b8-c48b-bb83-b2fa60a94069/3610156629023.jpg/100x100bb.jpg"
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c5/c6/ed/c5c6edd0-5585-a489-d332-ae5ee8670a47/mzaf_17826555496722960034.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/a1/be/5f/a1be5fa8-afbd-83d4-4ad9-ce4659a7cb67/3614975215634.jpg/100x100bb.jpg"
       },
       {
         "title": "Белоруссия",
         "artist": "Песняры",
-        "year": 1969,
+        "year": 1976,
         "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a9/f7/93/a9f793ac-3908-319e-79be-5ebdbf6e8dea/mzaf_9547796492155367897.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/a1/be/5f/a1be5fa8-afbd-83d4-4ad9-ce4659a7cb67/3614975215634.jpg/100x100bb.jpg"
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/18/a4/77/18a477ed-27c2-a4e4-fc66-16c6e1bbd29c/mzaf_5864954555978536046.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d1/e2/88/d1e28871-568a-3c6a-72fe-c41c1a733383/cover.jpg/100x100bb.jpg"
       },
       {
         "title": "За полчаса до весны",
@@ -1265,282 +1265,170 @@
       {
         "title": "Берёзовый сок",
         "artist": "Песняры",
-        "year": 1996,
+        "year": 1976,
         "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/22/2c/f8/222cf87d-5965-7f67-0c36-0d41930235ec/mzaf_2490950099358375754.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/97/41/30/97413069-cbe7-9afb-6106-14bf3d8e8aae/3610156613688.jpg/100x100bb.jpg"
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bf/8e/8f/bf8e8fe0-cd1b-6b02-805a-9c061177a6fc/mzaf_15342189115685289125.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/a1/be/5f/a1be5fa8-afbd-83d4-4ad9-ce4659a7cb67/3614975215634.jpg/100x100bb.jpg"
       },
       {
-        "title": "Олеся",
-        "artist": "Песняры",
-        "year": 1969,
+        "title": "Мой адрес - Советский союз",
+        "artist": "Самоцветы",
+        "year": 1972,
         "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/29/20/58/292058a6-249e-c09c-533f-1ad4c82ede45/mzaf_12947765742959099949.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d1/e2/88/d1e28871-568a-3c6a-72fe-c41c1a733383/cover.jpg/100x100bb.jpg"
-      },
-      {
-        "title": "Yas Mowed Clover (Mujuice Acid Rework)",
-        "artist": "Песняры",
-        "year": 2023,
-        "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/37/d7/f1/37d7f1cd-e1d1-2a9f-20e2-748bf16af10e/mzaf_9125807870006052303.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/31/0b/71/310b719e-cca1-de70-9e41-9ac039be59c9/cover.jpg/100x100bb.jpg"
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c8/8c/03/c88c0331-4711-b4cf-b298-a9718ad193fd/mzaf_4799172375646195374.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/8c/13/258c137d-b38e-dc10-fcf8-c4c7b9e89cdc/cover.jpg/100x100bb.jpg"
       },
       {
         "title": "За того парня",
         "artist": "Самоцветы",
-        "year": 1973,
+        "year": 1972,
         "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/41/96/80/419680a4-9b2e-913b-19c3-22ab1f32ffbf/mzaf_4261356471029824911.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/5c/34/885c3408-7f36-7295-443b-8f583ad8c55f/cover.jpg/100x100bb.jpg"
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/28/af/7c/28af7c9a-f72d-8d2c-4473-0f42b0f6363f/mzaf_3353011117925568821.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c2/f0/20/c2f0206f-8c15-3027-3c33-c45290efe7a3/cover.jpg/100x100bb.jpg"
       },
       {
         "title": "Увезу тебя я в тундру",
         "artist": "Самоцветы",
-        "year": 1973,
+        "year": 1972,
         "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cb/54/f0/cb54f02c-e2cb-48af-ab8d-3807c5da1bda/mzaf_18196948724644967509.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/5c/34/885c3408-7f36-7295-443b-8f583ad8c55f/cover.jpg/100x100bb.jpg"
-      },
-      {
-        "title": "Вся жизнь впереди",
-        "artist": "Самоцветы",
-        "year": 1988,
-        "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/db/8b/d0/db8bd0ae-933b-3ece-450c-1e491d0e238d/mzaf_9793568588816493336.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/44/ec/2e/44ec2e71-1932-6047-dfd1-437ec03ea732/cover.jpg/100x100bb.jpg"
-      },
-      {
-        "title": "Всё, что в жизни есть у меня",
-        "artist": "Самоцветы",
-        "year": 2010,
-        "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/13/69/c613695d-162c-10f4-ddd0-23f836f5bf60/mzaf_5333152513632900692.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/9c/82/b49c82e4-9b34-1dc7-ce1c-9dd69d8d9cb0/cover.jpg/100x100bb.jpg"
-      },
-      {
-        "title": "У нас, молодых",
-        "artist": "Самоцветы",
-        "year": 2025,
-        "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4f/16/a2/4f16a231-0d83-41f4-1370-49fcc54f353d/mzaf_8441911892708715490.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/ec/0e/a7ec0e2a-9d80-f574-b6b2-d3e2bbe67eb1/cover.jpg/100x100bb.jpg"
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/d2/bd/67d2bd87-0790-228e-bb5f-277c1f2f3062/mzaf_2559498696052243604.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/8c/13/258c137d-b38e-dc10-fcf8-c4c7b9e89cdc/cover.jpg/100x100bb.jpg"
       },
       {
         "title": "Не повторяется такое никогда",
         "artist": "Самоцветы",
         "year": 1973,
         "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c5/05/3e/c5053e9c-1af9-3383-6ea7-156a3c901639/mzaf_6542157898792959726.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/da/04/b0da04f0-59f1-901c-b0e5-1ee3627a548f/0.jpg/100x100bb.jpg"
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/99/4e/90/994e9070-5f1d-c2b9-9722-d905fc4e10af/mzaf_10655998612359180936.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/a1/e6/eea1e617-b392-df24-a54d-647f888ecd14/cover.jpg/100x100bb.jpg"
       },
       {
-        "title": "Мой адрес - Советский союз",
+        "title": "Всё, что в жизни есть у меня",
         "artist": "Самоцветы",
-        "year": 1973,
+        "year": 1974,
         "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d8/42/e3/d842e3e7-6fbd-7b00-2d9b-c633063426bf/mzaf_15898833664495341039.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/5c/34/885c3408-7f36-7295-443b-8f583ad8c55f/cover.jpg/100x100bb.jpg"
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/13/69/c613695d-162c-10f4-ddd0-23f836f5bf60/mzaf_5333152513632900692.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/9c/82/b49c82e4-9b34-1dc7-ce1c-9dd69d8d9cb0/cover.jpg/100x100bb.jpg"
       },
       {
-        "title": "Дружба",
+        "title": "Вся жизнь впереди",
         "artist": "Самоцветы",
-        "year": 2023,
+        "year": 1977,
         "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/97/ec/e4/97ece4e0-8dbb-6863-55c5-b9074c697cbb/mzaf_1896899594260532164.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fb/ee/de/fbeedee6-34ea-5026-5bbf-e2df4d68c154/cover.jpg/100x100bb.jpg"
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/db/8b/d0/db8bd0ae-933b-3ece-450c-1e491d0e238d/mzaf_9793568588816493336.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/44/ec/2e/44ec2e71-1932-6047-dfd1-437ec03ea732/cover.jpg/100x100bb.jpg"
       },
       {
-        "title": "Семейный альбом",
+        "title": "Манжерок",
         "artist": "Эдита Пьеха",
-        "year": 1988,
+        "year": 1966,
         "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0f/de/0d/0fde0da2-c0b1-b086-ddba-4f380227d978/mzaf_4307883391089188730.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/50/a5/88/50a58817-7bdd-1b3e-4e8a-cbe53ae00439/cover.jpg/100x100bb.jpg"
-      },
-      {
-        "title": "Город детства",
-        "artist": "Эдита Пьеха",
-        "year": 1987,
-        "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2a/87/ec/2a87ec5b-5d29-9d88-91bd-17da1bb29b7f/mzaf_12955807344838247839.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/87/83/ee/8783eef2-5e2f-7d0f-8ca1-28a5f6924143/cover.jpg/100x100bb.jpg"
-      },
-      {
-        "title": "Спасибо, жизнь!",
-        "artist": "Эдита Пьеха",
-        "year": 2012,
-        "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0d/57/0e/0d570ed0-9e00-4345-ccfc-1ac1e3586398/mzaf_12139269624020047820.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/58/88/19/5888196c-5207-21b9-f8bf-33a01e05b3d1/cover.jpg/100x100bb.jpg"
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c5/57/ec/c557ec30-2755-035a-b7ea-3793e41ebb10/mzaf_15401331744855563862.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/cf/ef/33/cfef332d-c673-70e8-a20d-85a3387f1e1e/cover.jpg/100x100bb.jpg"
       },
       {
         "title": "Наш сосед",
         "artist": "Эдита Пьеха",
         "year": 1967,
         "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/03/a0/6d/03a06d25-a0eb-c0ce-9e4b-a124031ef66b/mzaf_6581391402588006311.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/50/3f/82/503f82c6-8611-3985-a6f4-a1b5327189fe/cover.jpg/100x100bb.jpg"
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c5/a3/74/c5a3743b-c1f2-d8ac-3b88-c12962e62bb9/mzaf_13559539523438679969.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/94/2f/91/942f91b5-4433-9b66-c76e-eda5c43d828e/cover.jpg/100x100bb.jpg"
       },
       {
-        "title": "Это здорово",
-        "artist": "Эдита Пьеха",
-        "year": 1997,
-        "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/21/29/64/212964cb-d8d5-55f1-8959-4855a0500df1/mzaf_17991789618740282028.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/cf/ef/33/cfef332d-c673-70e8-a20d-85a3387f1e1e/cover.jpg/100x100bb.jpg"
-      },
-      {
-        "title": "Как молоды мы были",
-        "artist": "Эдита Пьеха",
-        "year": 2012,
-        "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/35/ff/44/35ff4490-90dc-f97a-f1e4-39bab5ef9b1f/mzaf_9736031350174476311.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/58/88/19/5888196c-5207-21b9-f8bf-33a01e05b3d1/cover.jpg/100x100bb.jpg"
-      },
-      {
-        "title": "Белый вечер",
-        "artist": "Эдита Пьеха",
-        "year": 1988,
-        "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2a/7c/54/2a7c54a7-a17a-b17f-8cc3-8c65d14a0504/mzaf_3958933350902301058.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/50/a5/88/50a58817-7bdd-1b3e-4e8a-cbe53ae00439/cover.jpg/100x100bb.jpg"
-      },
-      {
-        "title": "Манжерок",
+        "title": "Город детства",
         "artist": "Эдита Пьеха",
         "year": 1968,
         "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4e/49/2b/4e492b8e-6987-1893-b46f-47a7b48295ed/mzaf_12543438564955959983.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/50/3f/82/503f82c6-8611-3985-a6f4-a1b5327189fe/cover.jpg/100x100bb.jpg"
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/83/29/3d/83293d7b-4459-067c-45b6-de5b2ce63fb8/mzaf_651185394013462123.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fa/43/a2/fa43a295-d294-3729-733e-139c046ee07c/cover.jpg/100x100bb.jpg"
       },
       {
-        "title": "Позови меня с собой",
-        "artist": "Алла Пугачёва",
-        "year": 1998,
+        "title": "Огромное небо",
+        "artist": "Эдита Пьеха",
+        "year": 1968,
         "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f2/ba/77/f2ba776d-69bf-edec-01e3-d9de5f223826/mzaf_17347980780585920913.plus.aac.p.m4a",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/30/76/9f/30769f89-4ca1-51f8-fd49-7da0f63a3e4a/mzaf_16780768165829151349.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/24/05/84/240584da-9051-d96e-22df-97fafeb77f73/cover.jpg/100x100bb.jpg"
+      },
+      {
+        "title": "Арлекино",
+        "artist": "Алла Пугачёва",
+        "year": 1975,
+        "country": "RU",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/13/15/d5/1315d538-48ea-f1c1-c6cd-3f927878dbf3/mzaf_4025924162468835897.plus.aac.p.m4a",
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/99/d2/1d/99d21d7d-bb55-0975-1c4a-db6d7a9ebdf1/cover.jpg/100x100bb.jpg"
-      },
-      {
-        "title": "Старинные часы",
-        "artist": "Алла Пугачёва",
-        "year": 1983,
-        "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0b/79/a0/0b79a039-63c8-9681-0b85-a4bda5aaabb7/mzaf_17544202093721768603.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/27/48/6e/27486ef6-f1d2-6f59-c503-3a89c4a93b0e/cover.jpg/100x100bb.jpg"
       },
       {
         "title": "Звёздное лето",
         "artist": "Алла Пугачёва",
-        "year": 1980,
+        "year": 1978,
         "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ac/b3/70/acb3703c-1940-7644-03ca-34f77b80d74d/mzaf_1573646412630881127.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music19/v4/d3/0a/e0/d30ae0d5-1059-1467-94c8-e4e51a97c775/cover.jpg/100x100bb.jpg"
-      },
-      {
-        "title": "А знаешь, всё ещё будет",
-        "artist": "Алла Пугачёва",
-        "year": 1987,
-        "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/06/55/47/06554767-c2ba-8bb4-fa98-5218e61867e5/mzaf_10866548354663503607.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/99/04/e5/9904e539-5def-b93a-c442-4edb11cb5686/cover.jpg/100x100bb.jpg"
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b5/fe/70/b5fe7076-28e1-78cb-16d4-323efeae9bb3/mzaf_4500021564265099004.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music42/v4/bd/dc/0c/bddc0cb0-6d81-78cd-cbc6-0f0558c1ad91/cover.jpg/100x100bb.jpg"
       },
       {
         "title": "Этот мир",
         "artist": "Алла Пугачёва",
-        "year": 1980,
+        "year": 1978,
         "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/69/b4/60/69b46026-98eb-e8a3-0d3f-5e0da2aed804/mzaf_13118435435210263494.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/d5/61/09/d5610987-4b5a-1231-44a2-202a9066481e/cover.jpg/100x100bb.jpg"
-      },
-      {
-        "title": "Доченька",
-        "artist": "Алла Пугачёва",
-        "year": 2001,
-        "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/1f/cb/f3/1fcbf38f-7414-13b2-c73d-51c6226b71a2/mzaf_5726783189816990319.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/c7/ca/b8/c7cab862-4db5-4876-c131-8fa65f12e7e9/cover.jpg/100x100bb.jpg"
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2a/86/cc/2a86ccf2-f10f-3d9d-99c7-1d0f52968918/mzaf_3791172875932678004.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music41/v4/b3/9a/e1/b39ae10f-049c-cd69-8dd5-2f5887cd7d05/cover.jpg/100x100bb.jpg"
       },
       {
         "title": "Миллион алых роз",
         "artist": "Алла Пугачёва",
-        "year": 1983,
+        "year": 1982,
         "country": "RU",
         "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7c/66/94/7c669415-2533-7eb1-7e7f-6b85130b6844/mzaf_14787843872671103010.plus.aac.p.m4a",
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/99/d2/1d/99d21d7d-bb55-0975-1c4a-db6d7a9ebdf1/cover.jpg/100x100bb.jpg"
       },
       {
-        "title": "Арлекино",
+        "title": "Старинные часы",
         "artist": "Алла Пугачёва",
-        "year": 1979,
+        "year": 1982,
         "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/13/15/d5/1315d538-48ea-f1c1-c6cd-3f927878dbf3/mzaf_4025924162468835897.plus.aac.p.m4a",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6b/ba/5a/6bba5ada-8d67-0509-4637-3686894755e2/mzaf_16556875426588187279.plus.aac.p.m4a",
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/99/d2/1d/99d21d7d-bb55-0975-1c4a-db6d7a9ebdf1/cover.jpg/100x100bb.jpg"
+      },
+      {
+        "title": "А знаешь, всё ещё будет",
+        "artist": "Алла Пугачёва",
+        "year": 1984,
+        "country": "RU",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ed/67/cb/ed67cbc0-224c-584c-fe01-1824ae738825/mzaf_17818044168331022292.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/38/14/32/38143226-2ae3-f575-927d-cd43b0bf5de4/cover.jpg/100x100bb.jpg"
+      },
+      {
+        "title": "Поверь в мечту",
+        "artist": "Земляне",
+        "year": 1981,
+        "country": "RU",
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b7/2f/b9/b72fb944-4b77-5c01-c614-2d394ece2423/mzaf_10163360273197001058.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/21/ac/91/21ac91ca-6fb6-f44f-eedf-ae5b6545d6f3/0e56f42a-3485-4213-a3dc-37a990e78e59.jpg/100x100bb.jpg"
       },
       {
         "title": "Трава у дома",
         "artist": "Земляне",
         "year": 1983,
         "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/30/e8/05/30e80566-4f5c-35e9-4244-793b90f5818d/mzaf_5737794118265806286.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/52/6b/55/526b551e-f2d4-5372-4e40-8ee8e22ed889/5b7a4bdc-5133-44f7-8497-28c8812bd7ac.jpg/100x100bb.jpg"
-      },
-      {
-        "title": "БОЖЕ",
-        "artist": "Земляне",
-        "year": 2019,
-        "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/37/a5/52/37a55252-dafd-be78-f5f2-2f09d35026c5/mzaf_6633291953795507322.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d2/f8/53/d2f853ee-9669-f4e8-4cfa-55bd0be80d82/cover.jpg/100x100bb.jpg"
-      },
-      {
-        "title": "Grass By the Home (Geoffrey Day Remix)",
-        "artist": "Земляне",
-        "year": 2023,
-        "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/42/4b/45/424b45ad-8b88-6429-933b-3c67d816eb8b/mzaf_16509672613346160546.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/31/0b/71/310b719e-cca1-de70-9e41-9ac039be59c9/cover.jpg/100x100bb.jpg"
-      },
-      {
-        "title": "Одиночество",
-        "artist": "Земляне",
-        "year": 2018,
-        "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5e/e1/92/5ee19262-7094-602b-3490-d6af6e1ddb93/mzaf_15806750330722843144.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d9/62/69/d9626971-8d64-3936-44eb-3d64f4666be8/cover.jpg/100x100bb.jpg"
-      },
-      {
-        "title": "Поверь в мечту (Вариация 2 Бонус-трек)",
-        "artist": "Земляне",
-        "year": 1981,
-        "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/1d/17/07/1d17072c-0977-1552-2a00-29443b812c66/mzaf_16074234849325418390.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/84/e5/16/84e51633-a5fe-ad06-12c4-ec6fe9928be2/85825ecb-7857-4800-abcf-834553c13564.jpg/100x100bb.jpg"
-      },
-      {
-        "title": "Борсалино",
-        "artist": "Земляне",
-        "year": 2014,
-        "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/fd/37/a3/fd37a34f-4779-475a-4628-051094d365a4/mzaf_6999241897484109175.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/df/be/69/dfbe6951-bc63-8a16-97b9-8d7aeee941c9/a1332fe2-bf62-4635-b37a-023b6f7c8a1e.jpg/100x100bb.jpg"
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b4/bc/ea/b4bceaaf-b249-c0ae-8f41-cd822c9d67a6/mzaf_16175566680046163085.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/29/15/2e/29152e5f-aa71-acb6-9636-7bd1bfe14be3/cover.jpg/100x100bb.jpg"
       },
       {
         "title": "Прости, Земля",
         "artist": "Земляне",
         "year": 1983,
         "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/34/21/70342148-25f3-7044-d057-f2b08a85cea9/mzaf_11486768592019046489.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/3c/71/493c716f-45b0-190e-6b70-5dd6cb9692e8/39ed0cde-7d63-4611-9087-a10de2558088.jpg/100x100bb.jpg"
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e3/78/35/e378353f-2cab-a4bd-edc4-578c34987595/mzaf_16074303997200766653.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/21/ac/91/21ac91ca-6fb6-f44f-eedf-ae5b6545d6f3/0e56f42a-3485-4213-a3dc-37a990e78e59.jpg/100x100bb.jpg"
       },
       {
         "title": "Каскадёры",
         "artist": "Земляне",
         "year": 1983,
         "country": "RU",
-        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/68/e3/d7/68e3d736-8348-1857-85ea-d1c852a7d644/mzaf_17524900182501486771.plus.aac.p.m4a",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/3c/71/493c716f-45b0-190e-6b70-5dd6cb9692e8/39ed0cde-7d63-4611-9087-a10de2558088.jpg/100x100bb.jpg"
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b6/b1/62/b6b16289-db42-25dc-9d01-5b5e5da370bc/mzaf_8362239106414868422.plus.aac.p.m4a",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/21/ac/91/21ac91ca-6fb6-f44f-eedf-ae5b6545d6f3/0e56f42a-3485-4213-a3dc-37a990e78e59.jpg/100x100bb.jpg"
       },
       {
         "title": "Песня о друге",
